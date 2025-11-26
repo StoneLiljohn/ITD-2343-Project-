@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\bin\Debug\net8.0-windows\Project5Littlejohn.exe
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\bin\Debug\net8.0-windows\Project5Littlejohn.deps.json
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\bin\Debug\net8.0-windows\Project5Littlejohn.runtimeconfig.json
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\bin\Debug\net8.0-windows\Project5Littlejohn.dll
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\bin\Debug\net8.0-windows\Project5Littlejohn.pdb
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.frmChoices.resources
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.AssemblyInfo.cs
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.dll
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\refint\Project5Littlejohn.dll
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.pdb
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\Project5Littlejohn.genruntimeconfig.cache
+C:\Users\student\source\repos\Solution5Littlejohn\Project5Littlejohn\obj\Debug\net8.0-windows\ref\Project5Littlejohn.dll
