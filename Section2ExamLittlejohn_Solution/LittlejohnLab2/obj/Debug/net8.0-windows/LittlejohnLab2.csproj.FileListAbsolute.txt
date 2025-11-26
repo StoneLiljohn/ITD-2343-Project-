@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\bin\Debug\net8.0-windows\LittlejohnLab2.exe
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\bin\Debug\net8.0-windows\LittlejohnLab2.deps.json
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\bin\Debug\net8.0-windows\LittlejohnLab2.runtimeconfig.json
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\bin\Debug\net8.0-windows\LittlejohnLab2.dll
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\bin\Debug\net8.0-windows\LittlejohnLab2.pdb
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.Form1.resources
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.csproj.GenerateResource.cache
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.AssemblyInfo.cs
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.dll
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\refint\LittlejohnLab2.dll
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.pdb
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\LittlejohnLab2.genruntimeconfig.cache
+C:\Users\student\source\repos\LittlejohnLab2\LittlejohnLab2\obj\Debug\net8.0-windows\ref\LittlejohnLab2.dll
