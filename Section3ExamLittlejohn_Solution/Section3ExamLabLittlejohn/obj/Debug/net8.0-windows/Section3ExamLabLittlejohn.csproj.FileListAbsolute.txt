@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\bin\Debug\net8.0-windows\Section3ExamLabLittlejohn.exe
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\bin\Debug\net8.0-windows\Section3ExamLabLittlejohn.deps.json
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\bin\Debug\net8.0-windows\Section3ExamLabLittlejohn.runtimeconfig.json
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\bin\Debug\net8.0-windows\Section3ExamLabLittlejohn.dll
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\bin\Debug\net8.0-windows\Section3ExamLabLittlejohn.pdb
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.Form1.resources
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.AssemblyInfo.cs
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.dll
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\refint\Section3ExamLabLittlejohn.dll
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.pdb
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\Section3ExamLabLittlejohn.genruntimeconfig.cache
+C:\Users\student\source\repos\Section3ExamLabLittlejohn\Section3ExamLabLittlejohn\obj\Debug\net8.0-windows\ref\Section3ExamLabLittlejohn.dll
