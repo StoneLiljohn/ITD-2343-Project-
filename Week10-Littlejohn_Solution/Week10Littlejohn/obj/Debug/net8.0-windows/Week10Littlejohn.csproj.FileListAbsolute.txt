@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.frmRadioStar.resources
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.AssemblyInfo.cs
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\bin\Debug\net8.0-windows\Week10Littlejohn.exe
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\bin\Debug\net8.0-windows\Week10Littlejohn.deps.json
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\bin\Debug\net8.0-windows\Week10Littlejohn.runtimeconfig.json
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\bin\Debug\net8.0-windows\Week10Littlejohn.dll
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\bin\Debug\net8.0-windows\Week10Littlejohn.pdb
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.dll
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\refint\Week10Littlejohn.dll
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.pdb
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\Week10Littlejohn.genruntimeconfig.cache
+C:\Users\student\source\repos\Week10Littlejohn\Week10Littlejohn\obj\Debug\net8.0-windows\ref\Week10Littlejohn.dll
