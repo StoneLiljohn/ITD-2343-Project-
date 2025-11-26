@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Module4Solution\Module4Project\bin\Debug\net8.0-windows\Module4Project.exe
+C:\Users\student\source\repos\Module4Solution\Module4Project\bin\Debug\net8.0-windows\Module4Project.deps.json
+C:\Users\student\source\repos\Module4Solution\Module4Project\bin\Debug\net8.0-windows\Module4Project.runtimeconfig.json
+C:\Users\student\source\repos\Module4Solution\Module4Project\bin\Debug\net8.0-windows\Module4Project.dll
+C:\Users\student\source\repos\Module4Solution\Module4Project\bin\Debug\net8.0-windows\Module4Project.pdb
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.frmOfDataTypes.resources
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.AssemblyInfo.cs
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.dll
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\refint\Module4Project.dll
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.pdb
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\Module4Project.genruntimeconfig.cache
+C:\Users\student\source\repos\Module4Solution\Module4Project\obj\Debug\net8.0-windows\ref\Module4Project.dll
