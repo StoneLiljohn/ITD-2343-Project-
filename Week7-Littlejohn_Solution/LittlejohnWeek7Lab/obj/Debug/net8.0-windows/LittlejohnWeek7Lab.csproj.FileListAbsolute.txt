@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\bin\Debug\net8.0-windows\LittlejohnWeek7Lab.exe
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\bin\Debug\net8.0-windows\LittlejohnWeek7Lab.deps.json
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\bin\Debug\net8.0-windows\LittlejohnWeek7Lab.runtimeconfig.json
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\bin\Debug\net8.0-windows\LittlejohnWeek7Lab.dll
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\bin\Debug\net8.0-windows\LittlejohnWeek7Lab.pdb
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.Form1.resources
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.csproj.GenerateResource.cache
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.AssemblyInfo.cs
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.dll
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\refint\LittlejohnWeek7Lab.dll
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.pdb
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\LittlejohnWeek7Lab.genruntimeconfig.cache
+C:\Users\student\source\repos\LittlejohnWeek7Lab\LittlejohnWeek7Lab\obj\Debug\net8.0-windows\ref\LittlejohnWeek7Lab.dll
