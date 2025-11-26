@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.Form1.resources
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.AssemblyInfo.cs
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\bin\Debug\net8.0-windows\Section3LabLittlejohn.exe
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\bin\Debug\net8.0-windows\Section3LabLittlejohn.deps.json
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\bin\Debug\net8.0-windows\Section3LabLittlejohn.runtimeconfig.json
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\bin\Debug\net8.0-windows\Section3LabLittlejohn.dll
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\bin\Debug\net8.0-windows\Section3LabLittlejohn.pdb
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.dll
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\refint\Section3LabLittlejohn.dll
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.pdb
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\Section3LabLittlejohn.genruntimeconfig.cache
+C:\Users\student\source\repos\Section3LabLittlejohn\Section3LabLittlejohn\obj\Debug\net8.0-windows\ref\Section3LabLittlejohn.dll
