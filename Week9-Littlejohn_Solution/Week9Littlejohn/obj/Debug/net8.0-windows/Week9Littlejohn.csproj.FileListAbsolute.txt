@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\bin\Debug\net8.0-windows\Week9Littlejohn.exe
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\bin\Debug\net8.0-windows\Week9Littlejohn.deps.json
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\bin\Debug\net8.0-windows\Week9Littlejohn.runtimeconfig.json
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\bin\Debug\net8.0-windows\Week9Littlejohn.dll
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\bin\Debug\net8.0-windows\Week9Littlejohn.pdb
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.AssemblyInfo.cs
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.dll
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\refint\Week9Littlejohn.dll
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.pdb
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.genruntimeconfig.cache
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\ref\Week9Littlejohn.dll
+C:\Users\student\source\repos\Week9Littlejohn\Week9Littlejohn\obj\Debug\net8.0-windows\Week9Littlejohn.frmCheckDigit.resources
